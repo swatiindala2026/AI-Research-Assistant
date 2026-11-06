@@ -1,0 +1,10 @@
+crewai
+streamlit
+requests
+python-dotenv
+reportlab
+litellm
+crewai
+groq
+streamlit
+python-dotenv
