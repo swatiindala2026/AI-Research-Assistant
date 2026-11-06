@@ -8,3 +8,4 @@ crewai
 groq
 streamlit
 python-dotenv
+reportlab
